@@ -1,0 +1,325 @@
+[
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:07:28"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:07:33"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:07:57"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:08:16"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:15:15"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:15:43"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:15:50"
+    },
+    {
+        "ip": "200.234.178.44",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:16:08"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:16:21"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "XX",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:16:29"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:18:43"
+    },
+    {
+        "ip": "200.234.178.44",
+        "asn": "UNKNOWN",
+        "country": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:18:56"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:19:03"
+    },
+    {
+        "ip": "170.150.133.122",
+        "asn": "UNKNOWN",
+        "country": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:19:03"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:21:17"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:21:28"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:22:45"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:24:15"
+    },
+    {
+        "ip": "66.249.85.65",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930V Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/59.0.3071.125 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+        "timestamp": "2025-06-05 05:24:19"
+    },
+    {
+        "ip": "66.102.8.160",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930V Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/59.0.3071.125 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+        "timestamp": "2025-06-05 05:24:20"
+    },
+    {
+        "ip": "66.102.8.174",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930V Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/59.0.3071.125 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+        "timestamp": "2025-06-05 05:24:20"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:24:26"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:24:27"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:25:49"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "UNKNOWN",
+        "asn": "UNKNOWN",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "timestamp": "2025-06-05 05:25:56"
+    },
+    {
+        "ip": "200.234.178.44",
+        "country": "BR",
+        "asn": "ML TELECOM",
+        "device": "DESKTOP",
+        "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36",
+        "timestamp": "2025-06-05 05:35:15"
+    },
+    {
+        "ip": "200.234.178.44",
+        "country": "BR",
+        "asn": "ML TELECOM",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "timestamp": "2025-06-05 05:35:25"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "NETWISE INFORMATICA LTDA",
+        "device": "MOBILE",
+        "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 05:35:40"
+    },
+    {
+        "ip": "200.234.178.44",
+        "country": "BR",
+        "asn": "AS10704 ML Telecom",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36",
+        "device": "DESKTOP",
+        "timestamp": "2025-06-05 06:06:33",
+        "redirect_to": "https:\/\/mercadolivre.com.br"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "device": "DESKTOP",
+        "timestamp": "2025-06-05 06:06:41",
+        "redirect_to": "https:\/\/mercadolivre.com.br"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:07:06",
+        "redirect_to": "https:\/\/youtube.com"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Mobile Safari\/537.36",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:07:11",
+        "redirect_to": "https:\/\/youtube.com"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "device": "DESKTOP",
+        "timestamp": "2025-06-05 06:07:42",
+        "redirect_to": "https:\/\/mercadolivre.com.br?utm_source=organic"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "device": "DESKTOP",
+        "timestamp": "2025-06-05 06:07:43",
+        "redirect_to": "https:\/\/mercadolivre.com.br?utm_source=organic"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:07:54",
+        "redirect_to": "https:\/\/youtube.com?utm_source=organic"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:08:00",
+        "redirect_to": "https:\/\/youtube.com?utm_source=organic"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "device": "DESKTOP",
+        "timestamp": "2025-06-05 06:08:51",
+        "redirect_to": "https:\/\/mercadolivre.com.br?utm_source=organic"
+    },
+    {
+        "ip": "170.150.133.122",
+        "country": "BR",
+        "asn": "AS61828 NETWISE INFORMATICA LTDA",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:08:55",
+        "redirect_to": "https:\/\/bobblegoodsbrart.myshopify.com\/products\/kit-2-livros-bobbie-goods-capa-dura-canetas-touch?utm_source=organic"
+    },
+    {
+        "ip": "2001:67c:2628:647:10::15e",
+        "country": "SE",
+        "asn": "AS205016 HERN Labs AB",
+        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit\/603.1.30 (KHTML, like Gecko) Version\/17.5 Mobile\/15A5370a Safari\/602.1",
+        "device": "MOBILE",
+        "timestamp": "2025-06-05 06:11:39",
+        "redirect_to": "https:\/\/mercadolivre.com.br?utm_source=organic"
+    }
+]
