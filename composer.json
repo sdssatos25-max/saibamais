@@ -1,9 +1,0 @@
-{
-  "name": "cloaker-educacional-php",
-  "description": "Cloaker educacional em PHP para Hostinger Premium Web Hosting",
-  "require": {
-    "php": ">=7.4",
-    "matomo/device-detector": "^6.3",
-    "jaybizzle/crawler-detect": "^1.2"
-  }
-}
